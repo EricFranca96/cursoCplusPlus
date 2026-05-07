@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EricF\\source\\repos\\Exercicios01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFD39F-260A-4515-9533-7D10A546D1B1}|Exercicios01\\Exercicios01.vcxproj|C:\\Users\\EricF\\source\\repos\\Exercicios01\\Exercicios01\\Exercicios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FFFD39F-260A-4515-9533-7D10A546D1B1}|Exercicios01\\Exercicios01.vcxproj|solutionrelative:Exercicios01\\Exercicios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicios.cpp",
+              "DocumentMoniker": "C:\\Users\\EricF\\source\\repos\\Exercicios01\\Exercicios01\\Exercicios.cpp",
+              "RelativeDocumentMoniker": "Exercicios01\\Exercicios.cpp",
+              "ToolTip": "C:\\Users\\EricF\\source\\repos\\Exercicios01\\Exercicios01\\Exercicios.cpp",
+              "RelativeToolTip": "Exercicios01\\Exercicios.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T14:23:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

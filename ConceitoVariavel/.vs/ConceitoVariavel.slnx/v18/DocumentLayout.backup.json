@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EricF\\source\\repos\\ConceitoVariavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109B9834-11AC-4021-B8BE-EC2FFBAA7D2C}|ConceitoVariavel\\ConceitoVariavel.vcxproj|C:\\Users\\EricF\\source\\repos\\ConceitoVariavel\\ConceitoVariavel\\Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{109B9834-11AC-4021-B8BE-EC2FFBAA7D2C}|ConceitoVariavel\\ConceitoVariavel.vcxproj|solutionrelative:ConceitoVariavel\\Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variaveis.cpp",
+              "DocumentMoniker": "C:\\Users\\EricF\\source\\repos\\ConceitoVariavel\\ConceitoVariavel\\Variaveis.cpp",
+              "RelativeDocumentMoniker": "ConceitoVariavel\\Variaveis.cpp",
+              "ToolTip": "C:\\Users\\EricF\\source\\repos\\ConceitoVariavel\\ConceitoVariavel\\Variaveis.cpp",
+              "RelativeToolTip": "ConceitoVariavel\\Variaveis.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T10:22:29.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

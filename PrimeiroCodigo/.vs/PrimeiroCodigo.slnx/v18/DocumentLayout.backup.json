@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EricF\\source\\repos\\PrimeiroCodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB4C05-8C1A-4174-97AC-01DF1048B5DE}|PrimeiroCodigo\\PrimeiroCodigo.vcxproj|C:\\Users\\EricF\\source\\repos\\PrimeiroCodigo\\PrimeiroCodigo\\Primeiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FCB4C05-8C1A-4174-97AC-01DF1048B5DE}|PrimeiroCodigo\\PrimeiroCodigo.vcxproj|solutionrelative:PrimeiroCodigo\\Primeiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primeiro.cpp",
+              "DocumentMoniker": "C:\\Users\\EricF\\source\\repos\\PrimeiroCodigo\\PrimeiroCodigo\\Primeiro.cpp",
+              "RelativeDocumentMoniker": "PrimeiroCodigo\\Primeiro.cpp",
+              "ToolTip": "C:\\Users\\EricF\\source\\repos\\PrimeiroCodigo\\PrimeiroCodigo\\Primeiro.cpp",
+              "RelativeToolTip": "PrimeiroCodigo\\Primeiro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T16:56:00.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

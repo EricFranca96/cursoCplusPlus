@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConceitoVariavel/ConceitoVariavel.vcxproj" Id="109b9834-11ac-4021-b8be-ec2ffbaa7d2c" />
+</Solution>

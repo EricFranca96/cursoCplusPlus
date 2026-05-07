@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EricF\\source\\repos\\ModificadoresDeTipo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{583174F6-1DE5-438F-8F38-035177ACF62D}|ModificadoresDeTipo\\ModificadoresDeTipo.vcxproj|C:\\Users\\EricF\\source\\repos\\ModificadoresDeTipo\\ModificadoresDeTipo\\ModificadoresDeTipo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{583174F6-1DE5-438F-8F38-035177ACF62D}|ModificadoresDeTipo\\ModificadoresDeTipo.vcxproj|solutionrelative:ModificadoresDeTipo\\ModificadoresDeTipo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModificadoresDeTipo.cpp",
+              "DocumentMoniker": "C:\\Users\\EricF\\source\\repos\\ModificadoresDeTipo\\ModificadoresDeTipo\\ModificadoresDeTipo.cpp",
+              "RelativeDocumentMoniker": "ModificadoresDeTipo\\ModificadoresDeTipo.cpp",
+              "ToolTip": "C:\\Users\\EricF\\source\\repos\\ModificadoresDeTipo\\ModificadoresDeTipo\\ModificadoresDeTipo.cpp",
+              "RelativeToolTip": "ModificadoresDeTipo\\ModificadoresDeTipo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T23:56:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
