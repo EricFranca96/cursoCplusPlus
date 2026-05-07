@@ -8,11 +8,11 @@ int main()
 	float Resultado;
 	float Media;
 
-	std::cout << "Digite o primeiro número: ";
+	std::cout << "Digite o Primeiro número: ";
 	std::cin >> Numero01;
-	std::cout << "Digite o primeiro número: ";
+	std::cout << "Digite o Segundo número: ";
 	std::cin >> Numero02;
-	std::cout << "Digite o primeiro número: ";
+	std::cout << "Digite o Terceiro número: ";
 	std::cin >> Numero03;
 
 	std::cout << "Números Digitados: " << Numero01 << " " << Numero02 << " " << Numero03;
